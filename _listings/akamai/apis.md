@@ -33,7 +33,7 @@ apis:
   tags: Datacenters
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/datacenters/master/_listings/akamai/config-gtm-v1-domains-domain-datacenters-datacenterid-put.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/datacenters/master/_listings/akamai/config-gtm-v1-domains-domain-datacenters-datacenterid-delete.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
